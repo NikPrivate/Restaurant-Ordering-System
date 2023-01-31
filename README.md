@@ -1,4 +1,6 @@
 # Restaurant-Ordering-System
+No Databae Only GUI
+
 
 I run this using Apache NetBeans IDE 16 and Java JDK 19
 
